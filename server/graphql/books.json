@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "year": 1937,
+      "genre": "Fantasy"
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "year": 1997,
+      "genre": "Fantasy"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "genre": "Literary Fiction"
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "genre": "Literary Fiction"
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "author": "Thomas Harris",
+      "year": 1988,
+      "genre": "Mystery/Thriller"
+    },
+    {
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "year": 2003,
+      "genre": "Mystery/Thriller"
+    }
+  ]
+}
